@@ -6,7 +6,7 @@
 
 #define MIN 2
 #define MAX 50
-#define Matrix_Size 60
+#define Matrix_Size 40
 #define RHO 0.5 //pheromone vapourisation
 #define ALPHA 1.0
 #define BETA 2.0
